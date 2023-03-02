@@ -1,6 +1,6 @@
 import "../styles/globals.css";
 
-//INTERNAL IMPORT
+//INTRNAL IMPORT
 import { NavBar, Footer } from "../components/componentsindex";
 
 const MyApp = ({ Component, pageProps }) => (
@@ -9,8 +9,6 @@ const MyApp = ({ Component, pageProps }) => (
     <Component {...pageProps} />
     <Footer />
   </div>
-    
 );
-
 
 export default MyApp;
