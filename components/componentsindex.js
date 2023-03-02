@@ -7,6 +7,7 @@ import BigNFTSilder from "./BigNFTSilder/BigNFTSilder";
 import Subscribe from "./Subscribe/Subscribe";
 import Title from "./Title/Title";
 import Category from "./Category/Category";
+import Filter from "./Filter/Filter";
 
 export { 
     Button, 
@@ -17,5 +18,6 @@ export {
     BigNFTSilder, 
     Subscribe,
     Title,
-    Category, 
+    Category,
+    Filter, 
 };
